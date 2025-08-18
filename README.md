@@ -43,4 +43,3 @@ Le blog est désormais fonctionnel ! Vous pouvez travailler traquillement
 
  Le ficiher [.htaccess et .htpasswd] doit être protèger 
   
- https://celestinservices.fr/BlogBOSONGO/
